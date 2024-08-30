@@ -74,9 +74,9 @@ __HW assignments can be found in that each weeks README.md file. Open that weeks
 
 __All HWs are due at 12:01pm (noon) the day before the next class__
 
-* Tue class:  HW due 12:01pm on Mon
-* Wed class: HW due 12:01pm on Tue
-* Fridays (both):  HW due 12:01pm on Thr
+* Tue class:  HW due 12:01pm (noon) on Mon
+* Wed class: HW due 12:01pm (noon) on Tue
+* Fridays (both):  HW due 12:01pm (noon) on Thr
 
 __Submit your HW assignemts next to your name in your sections sheet below__
 * [Tuesday's HW Submission Sheet](https://docs.google.com/spreadsheets/d/150MVMGhClrJ7NFAoukEvbZoujM3a_-7v9r9q4QihiAc/edit?gid=0#gid=0)
