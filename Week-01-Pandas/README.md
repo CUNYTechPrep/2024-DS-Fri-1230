@@ -5,33 +5,30 @@
 	* Start recording
 	* Turn on CC's. 
 	* Enable screen sharing for everyone (for breakout rooms)
-0. Welcome and how to succeed CTP.
-	* [Full slide deck](https://docs.google.com/presentation/d/1r42xs-9frnaFf4dEKBuQi5iAsZphqYco2oKR8bzoyLg/edit#slide=id.p)
+	* Ask Georgios for time checks
+0. Welcome and how to succeed CTP. [45min]
 	* [TLDR slide deck](https://docs.google.com/presentation/d/1cgkgEVO8ZY4P49R45uu2BuLGsZ7_sfBqwu60eyJ8k9c/edit#slide=id.g2f65cf05428_0_0)
-0. Getting started with jupyter notebook.
-0. Live coding pandas --> Lecture.ipynb
+0. Live coding pandas --> Lecture.ipynb [45min]
 0. Break
 0. Explain breakout room rules. 
-0. [Setting up github.](https://github.com/CUNYTechPrep/2024-DS-Tue/blob/main/Week-01-Pandas/setting-up-github.md) <-- EDIT LINK FOR YOUR CLASS IF NEED BE  
-	* Once a fellow is able to: 
-	* Push to their fork. 
-	* Put the link in the HW Submssion sheet. 
-	* Then, they go to a breakout room. 
+0. [Setting up github.](https://github.com/CUNYTechPrep/2024-DS-Fri-1230/blob/main/Week-01-Pandas/setting-up-github.md)
+	* Once a fellow is able to add their edited file to the HW submission sheet, then they can go to breakout rooms. 
 0. Exercise in breakout rooms.
 0. When there is 15min left in class.
 	* Close all breakout rooms and explain HW instructions and how to submit HW. 
 0. Go through what is DUE for HW (first topic below). [Preclass, Exercise, LinkedIn, Slack]
 0. Explain / show instructions on [how to hand in HW](https://github.com/CUNYTechPrep/2024-DS-Tue/tree/main?tab=readme-ov-file#homework-instructions-how-to-hand-in-your-hws). 
 0. MUST FILL OUT BEFORE LEAVING CLASS [Weekly feedback form](https://forms.gle/VnNrD7BokpUicFhv6).
+0. Ask students who can help with setup to stay and help. 
 
 
 # Homework Due Monday [~2.5hrs to complete]
-**Tuesdays class:  HW is due 12:01pm on Mondays**
+**Fridays class:  HW is due 12:01pm on Thursdays**
 Confused? See [how to hand in HW in detail](https://github.com/CUNYTechPrep/2024-DS-Tue/tree/main?tab=readme-ov-file#homework-instructions-how-to-hand-in-your-hws). 
-[Tuesday's HW Submission Sheet](https://docs.google.com/spreadsheets/d/150MVMGhClrJ7NFAoukEvbZoujM3a_-7v9r9q4QihiAc/edit?gid=0#gid=0).
+[Friday 1230's HW Submission Sheet](https://docs.google.com/spreadsheets/d/1jws-NeM5Ww4m903Xa8Vgdzcqi1LO3r_zXNQkNxeBk34/edit?usp=sharing).
 Super details are below on how to submit the assignments.
 
-## Pre-Class Videos [~1hr]
+## Pre-Class Videos [~30hr]
 **Submit by pasting the link to your message under the "Pre-Class Slack Link" column.** 
 
 0. [Watch "Top 25 Pandas Tricks"](https://youtu.be/RlIiVeig3hc?si=uowsrNJEI-bBHHU2) [~30min]
@@ -65,7 +62,7 @@ This week, your post can be about anything related to CTP or what your learned i
 
  
 
-## Update Slack Profile and install on phone
+## Update Slack Profile and install on phone [5min]
 1. Put your picture in your Slack Profile.
 1. Put your full name and preferred email
 1. Install slack on your phone.  
@@ -129,7 +126,7 @@ Every week you are expected to post on LinkeIn at least about thing you learned 
 You have 6 days to complete your HW. 
 HW is always due 1 day before class at 12:01pm (Noon).
 
-Submit HW in the [Tuesday's HW Submission Sheet](https://docs.google.com/spreadsheets/d/150MVMGhClrJ7NFAoukEvbZoujM3a_-7v9r9q4QihiAc/edit?gid=0#gid=0).
+Submit HW in the [Friday 1230's HW Submission Sheet](https://docs.google.com/spreadsheets/d/1jws-NeM5Ww4m903Xa8Vgdzcqi1LO3r_zXNQkNxeBk34/edit?usp=sharing).
 
 Detailed instructions on how to complete each of the assignments below.
 
@@ -160,7 +157,7 @@ Detailed instructions on how to complete each of the assignments below.
 0. Add your changes 
 	* `git add Week-01-Pandas/Exercise-[YOUR-INITIALS].ipynb`
 0. Commit your changes
-	* `git commit -m 'YOUR COMMIT MESSAGE HERE'`
+	* `git commit -m '[YOUR COMMIT MESSAGE HERE]'`
 0. Push your changes
 	* `git push`
 
@@ -173,7 +170,8 @@ Detailed instructions on how to complete each of the assignments below.
 ## Submitting Your HW
 0. Copy that exact URL, it should look something like this. https://github.com/zd123/my-fork-2023-fall-data-science-fridays/blob/main/Week-01-Pandas/Exercise-ZD.ipynb
 0. Paste that URL next to your name in the HW Submission Sheet. 
-	* [Tuesday's HW Submission Sheet](https://docs.google.com/spreadsheets/d/150MVMGhClrJ7NFAoukEvbZoujM3a_-7v9r9q4QihiAc/edit?gid=0#gid=0)
+	* [Friday 1230's HW Submission Sheet](https://docs.google.com/spreadsheets/d/1jws-NeM5Ww4m903Xa8Vgdzcqi1LO3r_zXNQkNxeBk34/edit?usp=sharing).
+
 
 # Extra Stuff 
 #### Extra pandas help / resources
