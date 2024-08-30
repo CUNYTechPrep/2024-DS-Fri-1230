@@ -42,13 +42,13 @@ __All HWs are due at 12:01pm (noon) the day before the next class__
 * __Lead Instructor:__ Zack DeSario
     * __Office Hours:__ Thursday's 1-2pm 
 * __TA:__ Georgios Ioannou
-    * Office Hours ???
+    * Office Hours: Fridays 3-4pm
 
 ### Friday 630 Section
 * Lead Instructor: Harpreet Gaur
     * Office Hours ???
 * TA Georgios Ioannou
-    * Office Hours ???
+    * Office Hours: Fridays 3-4pm
 
 ## Current Syllabus 
 
