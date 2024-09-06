@@ -1,0 +1,7 @@
+good_strings,just_ints,mixed_types,just_strings,mapped_data,mapped_data_nans
+a,1, 1, one,front,front
+b,10, one hundred, one hundred,front,front
+c,20, NULL,,c,
+z,99, 99.0,,back,back
+z,100,,,back,back
+z,200,200,,back,back
