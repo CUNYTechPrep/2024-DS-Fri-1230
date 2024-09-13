@@ -45,7 +45,7 @@ Watch these videos on how to think/brainstorm on projects and ideas. Post in sla
 
 
 ### Project Ideation
-0. Find the sheet with your name in the [Tuesday's Project Ideation Slide Deck](https://docs.google.com/presentation/d/1M355UVgttLeRFuzXqU-yWEQlcegJ3C3oQGR17cxrqTc/edit#slide=id.g1540cac7256_0_0)
+0. Find the sheet with your name in the [Friday 12:30 Project Ideation Slide Deck](https://docs.google.com/presentation/d/1DLhIKE1fL-TlnN3w5WTPTNs__rW4F2_KYeaIJ6q4gS8/edit#slide=id.g2fe36577cca_0_931)
 0. Complete all the questions in the slide deck (detailed instructions in earlier slides)
 0. Be ready to talk about yourself and your ideas next week. 
 
