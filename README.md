@@ -26,7 +26,7 @@ __All HWs are due at 12:01pm (noon) the day before the next class__
 ## Instructor / TA Info and Office Hours
 *To attend office hours, DM them Slack during their time slot and they will DM you back a private meeting link.*
 
-### Tuesdays Section
+### Tuesday Section
 * __Lead Instructor:__ Zack DeSario
     * __Office Hours:__ Thursdays 01:00 PM - 02:00 PM
 * __TA:__  Hussam Marzooq
@@ -36,19 +36,19 @@ __All HWs are due at 12:01pm (noon) the day before the next class__
 * __Lead Instructor:__ Chris Glosser
     * __Office Hours:__ Thursdays 06:00 PM - 07:00 PM
 * __TA:__ Kevin Li
-    * __TA Office:__ Fridays 05:00 PM - 06:00 PM
+    * __Office Hours__: Fridays 05:00 PM - 06:00 PM
 
 ### Friday 1230 Section
 * __Lead Instructor:__ Zack DeSario
-    * __Office Hours:__ Thursdays 01:00 PM - 02:00 PM
+    * __Office Hours__: Thursdays 01:00 PM - 02:00 PM
 * __TA:__ Georgios Ioannou
-    * Office Hours: Fridays 03:00 PM - 04:00 PM
+    * __Office Hours__: Fridays 03:00 PM - 04:00 PM
 
 ### Friday 630 Section
-* Lead Instructor: Harpreet Gaur
-    * Office Hours: Mondays 11:00 AM - 12:00 PM
-* TA Georgios Ioannou
-    * Office Hours: Fridays 03:00 PM - 04:00 PM
+* __Lead Instructor:__ Harpreet Gaur
+    * __Office Hours__: Mondays 11:00 AM - 12:00 PM
+* __TA:__ Georgios Ioannou
+    * __Office Hours__: Fridays 03:00 PM - 04:00 PM
 
 ## Current Syllabus 
 
