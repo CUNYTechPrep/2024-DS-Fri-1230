@@ -46,7 +46,7 @@ __All HWs are due at 12:01pm (noon) the day before the next class__
 
 ### Friday 630 Section
 * Lead Instructor: Harpreet Gaur
-    * Office Hours ???
+    * Office Hours: Mondays 11:00 AM - 12:00 PM
 * TA Georgios Ioannou
     * Office Hours: Fridays 03:00 PM - 04:00 PM
 
