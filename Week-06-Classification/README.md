@@ -1,13 +1,13 @@
 # Week 6 - Classification through the lens of Logsitic Regression
 
 ## Annoucements
-0. DS TUE ONLY:  Announce Kenneth new student looking for team. 
 0. Be ready to interview in person again due to rampant cheating.  Cheating during an interview will get you blacklisted. 
+0. When posting on LI, please include hashtags `#CTP10` and `#CUNYTechPrep10`. tyty
 
 
 ## Class Agenda
 0. Remind me to start recording.
-0. Review last weeks HW (~15 min)
+0. Hello to/from the new Tech Dean, [Aankit Patel](https://computinged.commons.gc.cuny.edu/our-team/). 
 0. Update your fork.
 	* `git fetch upstream`
 	* `git merge upstream/main`
