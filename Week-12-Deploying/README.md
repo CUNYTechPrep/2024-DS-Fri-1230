@@ -1,7 +1,8 @@
-# Week 11 - Career Coaching and Streamlit 
+# Week 12 - Deploying and Projects
 
 ## Agenda
 0. Remind me to start recording. 
+0. Student Shout-Outs
 0. PROJECTS DUE WEEK 13 [Dec 02-06]!  
 0. Review of rest of semester. 
 ```
